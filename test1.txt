@@ -1,4 +1,17 @@
 ni hao a \! wo de peng you
+<<<<<<< HEAD
 I am jack,is there anyone i am afraid of?
 
 wa ha ha is so goood
+
+=======
+
+
+
+
+
+
+kader
+crash stash
+brush
+>>>>>>> beauty
