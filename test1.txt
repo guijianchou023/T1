@@ -1,1 +1,4 @@
-ni hao a \! wo de peng you 
+ni hao a \! wo de peng you
+hi,hao are you !
+wa....!you are so cool!
+the diff tool only can be used before a file to be add to stage and after vim a file 
